@@ -1,0 +1,27 @@
+body {
+width: 800px;
+background-color: #EBEDEF;
+padding: 10 20px 20px 20px;
+background-image: url("sparklesparkle.gif"); 
+}
+.first {
+	background-color: #467FB7;
+	color: #F4F6F8;
+}
+
+.second {
+	background-color: #D7E4F1;
+}
+
+.third {
+	background-color: #C0CDDA;
+}
+
+h1 {
+	background-color: #C9D8E6;
+	color: #2B79C2;
+}
+
+h2 {
+	color: #004080
+}
