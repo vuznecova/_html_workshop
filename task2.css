@@ -4,6 +4,11 @@ background-color: #EBEDEF;
 padding: 10 20px 20px 20px;
 background-image: url("sparklesparkle.gif"); 
 }
+
+p {
+	font-family: Courier New;
+}
+
 .first {
 	background-color: #467FB7;
 	color: #F4F6F8;
@@ -20,8 +25,25 @@ background-image: url("sparklesparkle.gif");
 h1 {
 	background-color: #C9D8E6;
 	color: #2B79C2;
+	font-family: Courier New;
 }
 
 h2 {
-	color: #004080
+	color: #004080;
+		font-family: Courier New;
+
+}
+
+.button {
+	background-color: #D6F5FF;
+	border-radius: 10%;
+	border-color: #80B5F0;
+	font-family: Courier New;
+}
+
+.button:hover {
+	background-color: #80B5F0;
+	border-radius: 10%;
+	border-color: #80B5F0;
+	font-family: Courier New;
 }
