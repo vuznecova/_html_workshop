@@ -1,0 +1,21 @@
+.app {
+  padding: 30px;
+  background-image: url("sparkle1.gif");
+  background-color: LavenderBlush;
+  font-family: Fantasy, "Copperplate";
+  color: HotPink;
+  min-height: 100vh;
+
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+  color: HotPink;
+}
+
+button {
+	background-color: LavenderBlush;
+}
